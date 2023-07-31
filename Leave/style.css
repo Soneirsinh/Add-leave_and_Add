@@ -6,6 +6,9 @@
 
 header {
     background-color: #1D4D80;
+    position: sticky;
+    top: 0;
+}
 }
 
 .logo img {
